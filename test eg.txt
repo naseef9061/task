@@ -6,3 +6,7 @@ if a==c or b==d:
     print("YES")
 else:
     print("NO")
+
+
+
+#end of tob tobi tob tob tobi tob
